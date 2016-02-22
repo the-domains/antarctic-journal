@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Antarctic Journal]]></title>
         <description><![CDATA[Antarctic Journal]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/antarctic-journal/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 23:35:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 22 Feb 2016 23:52:50 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/antarctic-journal/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Day 1 - Departure Day]]></title>
+            <description><![CDATA[<article><h1>Day 1 - Departure Day</h1><p>undefined</p></article>]]></description>
+            <link>https://thegrid.ai/antarctic-journal/day-1-departure-day/index.html</link>
+            <guid isPermaLink="false">ae12d79f-b325-4551-b6f3-40e1861e6d19</guid>
+            <pubDate>Mon, 22 Feb 2016 23:52:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[In 1998 I went to Antarctica.]]></title>
             <description><![CDATA[<article><h1>In 1998 I went to Antarctica.</h1><p>Why? Fair question. I wanted to see it with my own eyes. I wanted to hear the silence calling[1], to paraphrase Douglas Mawson. I wanted to gaze upon the vast white vistas at the seat of the world.
@@ -19,7 +26,7 @@ Antarctic krill (Euphausia superba). What it's all about.
 So of I went, congenitally naïve and uncharacteristically ready for adventure. And this, along with about old school 35mm Kodachrome 500 slides, lots of Emails and a crate full of memories, is the result. I kept a diary[2] every day, a record of what I did and what I had done to me, what I saw, what I heard, tasted, felt. What I experienced.
 
 I hope it is of some interest.</p></article>]]></description>
-            <link>undefinedin-1998-i-went-to-antarctica/index.html</link>
+            <link>https://thegrid.ai/antarctic-journal/in-1998-i-went-to-antarctica/index.html</link>
             <guid isPermaLink="false">b153177c-ab3e-4b39-84c3-e8f483d9c7fa</guid>
             <pubDate>Mon, 22 Feb 2016 23:35:43 GMT</pubDate>
         </item>
