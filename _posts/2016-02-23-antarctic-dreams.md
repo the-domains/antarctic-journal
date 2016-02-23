@@ -6,9 +6,9 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-23T04:19:02.869Z'
-dateModified: '2016-02-23T04:18:59.612Z'
-title: Antarctic Dreams
+datePublished: '2016-02-23T08:37:47.913Z'
+dateModified: '2016-02-23T08:37:46.422Z'
+title: About this Site
 author: []
 sourcePath: _posts/2016-02-23-antarctic-dreams.md
 published: true
@@ -28,5 +28,5 @@ In 1998 and 1999 I went to Antarctica to catch krill for my PhD project. I was s
 
 I kept a diary of my entire PhD, including two voyages to Antarctica, plus one attempted voyage that turned round within 24 hours after the engine caught fire. But more on that later.
 I'm putting the diary of my trips online, maybe with a few photos, for no other reason that it was a fantastic experience and I'm keen to share it.
-All the best,
-Krillboy.
+
+Yours, Krillboy
