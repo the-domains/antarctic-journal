@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-23T01:39:17.004Z'
-dateModified: '2016-02-23T01:39:06.537Z'
+datePublished: '2016-02-23T08:16:38.738Z'
+dateModified: '2016-02-23T04:17:45.304Z'
 title: In 1998 I went to Antarctica.
 author: []
 sourcePath: _posts/2016-02-22-in-1998-i-went-to-antarctica.md
