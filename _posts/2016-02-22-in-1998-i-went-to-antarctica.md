@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-23T01:38:10.428Z'
-dateModified: '2016-02-23T00:15:14.639Z'
+datePublished: '2016-02-23T01:39:17.004Z'
+dateModified: '2016-02-23T01:39:06.537Z'
 title: In 1998 I went to Antarctica.
 author: []
 sourcePath: _posts/2016-02-22-in-1998-i-went-to-antarctica.md
