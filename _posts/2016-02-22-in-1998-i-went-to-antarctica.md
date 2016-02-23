@@ -5,10 +5,10 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-02-23T08:16:38.738Z'
-dateModified: '2016-02-23T04:17:45.304Z'
-title: In 1998 I went to Antarctica.
+description: 'Friday April 02, 1998'
+datePublished: '2016-02-23T08:37:12.537Z'
+dateModified: '2016-02-23T08:17:45.626Z'
+title: Day 0 - So why go?
 author: []
 sourcePath: _posts/2016-02-22-in-1998-i-went-to-antarctica.md
 published: true
