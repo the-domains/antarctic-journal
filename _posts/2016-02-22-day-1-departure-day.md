@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Friday, April 03, 1998'
-datePublished: '2016-02-23T08:15:23.902Z'
-dateModified: '2016-02-23T04:21:48.199Z'
+datePublished: '2016-02-23T08:17:00.366Z'
+dateModified: '2016-02-23T08:15:32.882Z'
 title: Day 1 - Departure Day
 author: []
 sourcePath: _posts/2016-02-22-day-1-departure-day.md
