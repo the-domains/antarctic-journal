@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Friday, April 03, 1998'
-datePublished: '2016-02-23T00:08:44.112Z'
-dateModified: '2016-02-23T00:07:10.341Z'
+datePublished: '2016-02-23T04:21:39.027Z'
+dateModified: '2016-02-23T00:16:37.760Z'
 title: Day 1 - Departure Day
 author: []
 sourcePath: _posts/2016-02-22-day-1-departure-day.md
@@ -22,7 +22,10 @@ url: day-1-departure-day/index.html
 _type: Article
 
 ---
-NOTE: Sorry about all the footnotes. Future entries will not be so densely annotated.\]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0cb53e58-05ca-4488-9cf2-c1c9374a911d.jpg)
+
+NOTE: Sorry about all the footnotes. Future entries will not be so densely annotated.\] 
+
 Got up almost immediately and showered, and made last-minute checks. Got to the ship about 8:30am and met So\[1\] carrying a huge monitor. Got a bit lost on my way down to my cabin - a four-berth quite forward, on the port side, and thankfully with a porthole. Saw Simon J and we pondered the fact that our cage pallets were still on the dockside. But they still seemed confident of leaving at 5pm.
 
 We had a safety drill, with life jackets and the big orange capsule-shaped lifeboats that put me in mind of some Vitamin C. Rather sobering to consider that these bulbous lifeboats would be our lifeline if the ship, the RSV Aurora Australis, came to some unspecified harm. I got the sense that piling into the lifeboat in Antarctic waters would be merely delaying the inevitable\[2\].
