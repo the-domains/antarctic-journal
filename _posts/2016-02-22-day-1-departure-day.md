@@ -6,24 +6,26 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Friday, April 03, 1998'
-datePublished: '2016-02-22T23:52:17.619Z'
-dateModified: '2016-02-22T23:52:16.080Z'
+datePublished: '2016-02-23T00:08:44.112Z'
+dateModified: '2016-02-23T00:07:10.341Z'
 title: Day 1 - Departure Day
 author: []
+sourcePath: _posts/2016-02-22-day-1-departure-day.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-22-day-1-departure-day.md
-published: true
 url: day-1-departure-day/index.html
 _type: Article
 
 ---
 NOTE: Sorry about all the footnotes. Future entries will not be so densely annotated.\]
-Got up almost immediately and showered, and made last-minute checks. Got to the ship about 8:30am and met So\[1\] carrying a huge monitor. Got a bit lost on my way down to my cabin - a four-berth quite forward, on the port side, and thankfully with a porthole. Saw Simon J and we pondered the fact that our cage pallets were still on the dockside. But they still seemed confident of leaving at 5pm. We had a safety drill, with life jackets and the big orange capsule-shaped lifeboats that put me in mind of some Vitamin C. Rather sobering to consider that these bulbous lifeboats would be our lifeline if the ship, the RSV Aurora Australis, came to some unspecified harm. I got the sense that piling into the lifeboat in Antarctic waters would be merely delaying the inevitable\[2\].
+Got up almost immediately and showered, and made last-minute checks. Got to the ship about 8:30am and met So\[1\] carrying a huge monitor. Got a bit lost on my way down to my cabin - a four-berth quite forward, on the port side, and thankfully with a porthole. Saw Simon J and we pondered the fact that our cage pallets were still on the dockside. But they still seemed confident of leaving at 5pm.
+
+We had a safety drill, with life jackets and the big orange capsule-shaped lifeboats that put me in mind of some Vitamin C. Rather sobering to consider that these bulbous lifeboats would be our lifeline if the ship, the RSV Aurora Australis, came to some unspecified harm. I got the sense that piling into the lifeboat in Antarctic waters would be merely delaying the inevitable\[2\].
 Talking us through the lifeboats onboard comforts or lack thereof was the 3rd mate, Les, a very pukka Englishman. We all got out and wandered back to the boat for an instructional video. After that, we were on our own. I gave Simon J a lift into town then went home to get some more footwear and eat something. I burst into Fraggle Rock\[3\], walked past Lev's door and said; "I'm back! Gee, it was cold!" Freaked him slightly.
 Called in at Uni to drop off a tuner and Dan and I went to lunch at Knopwood's and drank beers for a while. Ang\[4\] and Richard turned up. Richard was being... Richard, I suppose, and pissing off Dan something chronic (at one stage I asked him to just "stop being Richard" for a minute). We eventually got back to the boat where people were waiting, including my family, including Simon\[5\]. And of course, they mistook Dan\[6\] for Danni\[7\], something that has only just stopped happening.
 I was unsure of whether we could go on the boat, but as soon as I saw Andrew Mac's family following him around the deck, we all went on a bit of a tour courtesy of Steve Reeve of the shipping and air operations section. A very nice fellow. Richard and Simon were dueling wise cracks. I tried to hang near the back and avoid the flying testosterone. Dan was really hyped about being on the Aurora. "Oh wow, I'm on the Aurora!" I really hope my photos come out. The rest of them went off somewhere but by this time Rob King\[8\] had turned up and I needed to bend his ear.
